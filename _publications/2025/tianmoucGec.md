@@ -6,7 +6,7 @@ pub:            "Proceedings of the IEEE/CVF international conference on compute
 pub_date:       "2025"
 abstract: >-
   Recording and reconstructing high-speed scenes poses a significant challenge. While high-speed cameras can capture fine temporal details, their extremely high bandwidth demands make continuous recording unsustainable. Conversely, traditional RGB cameras, typically operating at 30 FPS, rely on frame interpolation to synthesize high-speed motion, often introducing artifacts and motion blur. Human visual system inspired sensors, like event cameras, offer high-speed sparse temporal or spatial variation data, partially alleviating these issues. However, existing methods still suffer from RGB blur, temporal aliasing, and loss of event information. To overcome these challenges, we leverage a novel complementary vision sensor, Tianmouc, which outputs high-speed, multi-bit, sparse spatio-temporal difference information with RGB frames. Building on this unique sensing modality, we introduce a Cascaded Bi-directional Recurrent Diffusion Model (CBRDM) that achieves accurate, sharp, color-rich video frames reconstruction. Our method outperforms state-of-the-art RGB interpolation algorithms in quantitative evaluations and surpasses eventbased methods in real-world comparisons.
-cover:          /assets/images/covers/genrec.jpg
+cover:          /assets/images/covers/tmc_genrec.gif
 authors:
 - Yapeng Meng*
 - Yihan Lin*
