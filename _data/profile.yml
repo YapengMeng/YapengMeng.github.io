@@ -71,7 +71,8 @@ education:
   logo: /assets/images/badges/beihang.jpg
   position: >-
     B.Eng. in School of Astronautics  <br/>
-    B.Sc. in Mathematics and Applied Mathematics,  <br/>
+    B.Sc. in Mathematics and Applied Mathematics <br/>
+    Minor in Engineering Management
   date: Sep. 2019 - Jul. 2023
 
 # experience:
@@ -87,7 +88,9 @@ education:
 awards:
 - name: Outstanding Student Cadre, Tsinghua University
   date: 2024
-- name: Future Scholars Scholarship, Tsinghua University
+- name: Scholarship for future scholars, Tsinghua University
+  date: 2023
+- name: Outstanding Graduate of Beijing
   date: 2023
 - name: Shen Yuan Medal (Top 10 College Students), Beihang University
   date: 2022

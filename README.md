@@ -1,3 +1,8 @@
+# Test
+```
+bundle exec jekyll serve --host 0.0.0.0 --port 6006 --livereload
+```
+
 # academic-homepage
 
 ![Preview](assets/images/etc/preview.png)
