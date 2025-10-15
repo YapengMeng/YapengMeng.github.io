@@ -15,5 +15,6 @@ authors:
 - Lijian Wang
 - Rong Zhao
 links:
+  Paper: https://openaccess.thecvf.com/content/ICCV2025/html/Meng_Diffusion-Based_Extreme_High-speed_Scenes_Reconstruction_with_the_Complementary_Vision_Sensor_ICCV_2025_paper.html
   Code: https://github.com/Tianmouc/GenRec
 ---
