@@ -12,7 +12,8 @@ email: "myp23@mails.tsinghua.edu.cn"
 # cv_link: link-to-your-cv-file
 gscholar: https://scholar.google.com/citations?hl=zh-CN&user=QOzih00AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: YapengMeng  # no https://, just the ID
-wechat_public: https://mp.weixin.qq.com/s/Ht3oeZB_qe4AV5bD9NcX_Q
+wechat_public1: https://mp.weixin.qq.com/s/Ht3oeZB_qe4AV5bD9NcX_Q
+wechat_public2: https://mp.weixin.qq.com/s/hKWnaQF3N8X5WLG56FP1cg
 
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -86,9 +87,11 @@ education:
 #   date: Jul. 2025 - Aug. 2025
 
 awards:
+- name: Comprehensive Excellence Scholarship, Tsinghua University
+  date: 2025
 - name: Outstanding Student Cadre, Tsinghua University
   date: 2024
-- name: Scholarship for future scholars, Tsinghua University
+- name: Scholarship for Future Scholars, Tsinghua University
   date: 2023
 - name: Outstanding Graduate of Beijing
   date: 2023
