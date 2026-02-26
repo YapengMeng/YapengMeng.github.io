@@ -13,6 +13,6 @@ authors:
 - Zhenwei Shi
 - Zhengxia Zou
 links:
-  Paper1: https://ieeexplore.ieee.org/abstract/document/11152090
-  Paper2: https://arxiv.org/abs/2308.05976
+  Arxiv Paper: https://arxiv.org/abs/2308.05976
+  Conference Paper: https://ieeexplore.ieee.org/abstract/document/11152090
 ---
