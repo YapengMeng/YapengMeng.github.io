@@ -17,7 +17,8 @@ authors:
 - Zheyu Yang
 - Yihan Lin#
 - Rong Zhao#
-# links:
-#   Paper: https://openaccess.thecvf.com/content/ICCV2025/html/Meng_Diffusion-Based_Extreme_High-speed_Scenes_Reconstruction_with_the_Complementary_Vision_Sensor_ICCV_2025_paper.html
-#   Code: https://github.com/Tianmouc/GenRec
+links:
+  Paper: https://openaccess.thecvf.com/content/CVPR2026/html/Meng_Spatio-Temporal_Difference_Guided_Motion_Deblurring_with_the_Complementary_Vision_Sensor_CVPR_2026_paper.html
+  Project Page: https://tmcdeblur.github.io/
+  Code: https://github.com/Tianmouc/tmcDeblur
 ---
